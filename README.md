@@ -16,10 +16,11 @@ A customizable Flutter date picker modal that supports month/year selection and 
 
 | Image                                                                   | Description                          |
 | ----------------------------------------------------------------------- | ------------------------------------ |
-| <img src="screenhots/month_range_picker.png" width="260" />             | Monthly picker default view          |
-| <img src="screenhots/month_range_picker1.png" width="260" />            | Alternate monthly picker state       |
-| <img src="screenhots/month_range_picker_with_limit.png" width="260" />  | Picker with max range limit applied  |
-| <img src="screenhots/month_range_picker_limit_error.png" width="260" /> | Validation error when limit exceeded |
+| <img width="260" height="2868" alt="month_range_picker" src="https://github.com/user-attachments/assets/6f784422-0b6a-485d-bc92-d1fa5a0ad148" />             | Monthly picker default view          |
+| <img width="260" height="2868" alt="month_range_picker1" src="https://github.com/user-attachments/assets/1f50cd39-19ab-4465-ad07-9b49b6cdb09f" />            | Alternate monthly picker state       |
+| <img width="260" height="2868" alt="month_range_picker_with_limit" src="https://github.com/user-attachments/assets/54c997dd-a4eb-4903-9c8f-fac78ce3000c" />  | Picker with max range limit applied  |
+| <img width="260" height="2868" alt="month_range_picker_limit_error" src="https://github.com/user-attachments/assets/b04d8870-e002-43d8-a7f0-b2fc7dc08266" />
+ | Validation error when limit exceeded |
 
 ## Installation
 
