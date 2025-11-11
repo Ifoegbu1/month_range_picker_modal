@@ -1,6 +1,6 @@
 name: month_range_picker_modal
 description: A customizable Flutter date picker modal that supports month/year selection and custom date range selection with preset options.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Ifoegbu1/month_range_picker_modal
 repository: https://github.com/Ifoegbu1/month_range_picker_modal
 issue_tracker: https://github.com/Ifoegbu1/month_range_picker_modal/issues

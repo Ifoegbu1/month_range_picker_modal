@@ -14,13 +14,12 @@ A customizable Flutter date picker modal that supports month/year selection and 
 
 ## Screenshots
 
-| Image                                                                   | Description                          |
-| ----------------------------------------------------------------------- | ------------------------------------ |
-| <img width="260" height="2868" alt="month_range_picker" src="https://github.com/user-attachments/assets/6f784422-0b6a-485d-bc92-d1fa5a0ad148" />             | Monthly picker default view          |
-| <img width="260" height="2868" alt="month_range_picker1" src="https://github.com/user-attachments/assets/1f50cd39-19ab-4465-ad07-9b49b6cdb09f" />            | Alternate monthly picker state       |
-| <img width="260" height="2868" alt="month_range_picker_with_limit" src="https://github.com/user-attachments/assets/54c997dd-a4eb-4903-9c8f-fac78ce3000c" />  | Picker with max range limit applied  |
-| <img width="260" height="2868" alt="month_range_picker_limit_error" src="https://github.com/user-attachments/assets/b04d8870-e002-43d8-a7f0-b2fc7dc08266" />
- | Validation error when limit exceeded |
+| Image                                                                                                                                                       | Description                         |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| <img width="260" alt="month_range_picker" src="https://github.com/user-attachments/assets/6f784422-0b6a-485d-bc92-d1fa5a0ad148" />            | Monthly picker default view         |
+| <img width="260"  alt="month_range_picker1" src="https://github.com/user-attachments/assets/1f50cd39-19ab-4465-ad07-9b49b6cdb09f" />           | Alternate monthly picker state      |
+| <img width="260"  alt="month_range_picker_with_limit" src="https://github.com/user-attachments/assets/54c997dd-a4eb-4903-9c8f-fac78ce3000c" /> | Picker with max range limit applied |
+| <img width="260"  alt="month_range_picker_limit_error" src="https://github.com/user-attachments/assets/b04d8870-e002-43d8-a7f0-b2fc7dc08266" /> |Validation error when limit exceeded |
 
 ## Installation
 
@@ -28,7 +27,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  month_range_picker_modal: ^1.0.0
+  month_range_picker_modal: ^1.0.1
 ```
 
 Then run:
